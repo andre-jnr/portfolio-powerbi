@@ -84,6 +84,20 @@ Bem-vindo ao meu portfólio de dashboards desenvolvidos em Power BI. Aqui aprese
 
 ---
 
+### 7. Dashboard de análise de receitas, custo e margem
+![DASHBOARD DE RECEITA, CUSTO E MARGEM](RECEITA_CUSTO_MARGEM/dashboard_receitas_custo_margem.png)
+
+**Resumo:**
+
+- Análise integrada de Receita, Custo e Margem com indicadores estratégicos
+- Visualização da evolução mensal para identificação de tendências financeiras
+- Segmentação da margem por linha e grupo de produtos, destacando os mais lucrativos
+- Comparativo de desempenho entre vendedores e supervisores
+- Dashboard com design moderno e elegante (dark mode), focado em clareza e tomada de decisão
+
+
+---
+
 ## 📫 Contato
 
 - 📧 Email: andrejunior.pessoal@gmail.com  
