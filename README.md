@@ -95,6 +95,9 @@ Bem-vindo ao meu portfólio de dashboards desenvolvidos em Power BI. Aqui aprese
 - Comparativo de desempenho entre vendedores e supervisores
 - Dashboard com design moderno e elegante (dark mode), focado em clareza e tomada de decisão
 
+---
+
+> ✏️ Possuo todos os datasets e relatórios elaborados no curso de **Power BI para Business Intelligence e Data Science** da **Data Science Academy**.
 
 ---
 
